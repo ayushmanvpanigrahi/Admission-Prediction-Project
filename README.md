@@ -57,11 +57,11 @@ The dataset contains student application data with the following features:
 ## Project Structure
 
 admission-prediction/
-│
-├── admission_prediction.ipynb
-├── README.md
-├── dataset.csv
-└── requirements.txt
+│<br>
+├── admission_prediction.ipynb<br>
+├── README.md<br>
+├── dataset.csv<br>
+└── requirements.txt<br>
 
 
 ---
